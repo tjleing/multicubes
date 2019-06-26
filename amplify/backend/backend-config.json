@@ -1,0 +1,8 @@
+{
+	"auth": {
+		"multicubes0ec2ff1b": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}

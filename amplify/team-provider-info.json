@@ -1,0 +1,19 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "multicubes-prod-20190625104947-authRole",
+            "UnauthRoleArn": "arn:aws:iam::687344275990:role/multicubes-prod-20190625104947-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::687344275990:role/multicubes-prod-20190625104947-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "multicubes-prod-20190625104947-deployment",
+            "UnauthRoleName": "multicubes-prod-20190625104947-unauthRole",
+            "StackName": "multicubes-prod-20190625104947",
+            "StackId": "arn:aws:cloudformation:us-east-2:687344275990:stack/multicubes-prod-20190625104947/9f8cbc50-9771-11e9-9843-0285144e27ac"
+        },
+        "categories": {
+            "auth": {
+                "multicubes0ec2ff1b": {}
+            }
+        }
+    }
+}
